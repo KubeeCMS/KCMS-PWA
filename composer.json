@@ -1,0 +1,19 @@
+{
+    "name": "kubeecms/kcms-pwa",
+    "description": "Super Progressive Web Apps extension",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Kubee",
+            "email": "contact@kubee.ro"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "wp-coding-standards/wpcs": "^1.2",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0"
+    }
+}
